@@ -1,2 +1,2 @@
-# Panel_Formaci-n
+# Panel_Formación
 Panel de formación para cursos #aprendiendoarduino
